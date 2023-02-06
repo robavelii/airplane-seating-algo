@@ -1,8 +1,8 @@
 # Airplane Seating Aglorithm built for an interview
 
-![alt text](https://github.com/[robavelii]/[airplane-seating-algo]/[main]/image.jpg?raw=true)
+![alt text](https://github.com/robavelii/airplane-seating-algo/blob/main/image.jpg)
 
-A simple node.js program that helps seat audiences in a flight based on the following input and rules.
+A simple node.js program that helps seat passengers in a flight based on the following input and rules.
 
 ## Rules for seating
 
@@ -16,8 +16,10 @@ A simple node.js program that helps seat audiences in a flight based on the foll
 
 # How to build and run
 
-git clone https://github.com/robavelii/airplane-seating-algo
-cd ariplane-seating-algo
-npm install
-Input: "<seat_layout>" "<passengers_count>"
-Example: node index.js "[[3,2],[4,3],[2,3],[3,4]]" "30"
+```bash
+ git clone https://github.com/robavelii/airplane-seating-algo
+ cd ariplane-seating-algo
+ npm install
+ Input: "<seat_layout>" "<passengers_count>"
+ Example: node index.js "[[3,2],[4,3],[2,3],[3,4]]" "30"
+```
